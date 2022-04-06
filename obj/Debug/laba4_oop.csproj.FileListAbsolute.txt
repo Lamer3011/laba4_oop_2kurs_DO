@@ -1,0 +1,10 @@
+c:\users\sergiy\documents\visual studio 2013\Projects\laba4_oop\laba4_oop\bin\Debug\laba4_oop.exe.config
+c:\users\sergiy\documents\visual studio 2013\Projects\laba4_oop\laba4_oop\bin\Debug\laba4_oop.exe
+c:\users\sergiy\documents\visual studio 2013\Projects\laba4_oop\laba4_oop\bin\Debug\laba4_oop.pdb
+c:\users\sergiy\documents\visual studio 2013\Projects\laba4_oop\laba4_oop\obj\Debug\laba4_oop.csprojResolveAssemblyReference.cache
+c:\users\sergiy\documents\visual studio 2013\Projects\laba4_oop\laba4_oop\obj\Debug\laba4_oop.Form1.resources
+c:\users\sergiy\documents\visual studio 2013\Projects\laba4_oop\laba4_oop\obj\Debug\laba4_oop.Form2.resources
+c:\users\sergiy\documents\visual studio 2013\Projects\laba4_oop\laba4_oop\obj\Debug\laba4_oop.Properties.Resources.resources
+c:\users\sergiy\documents\visual studio 2013\Projects\laba4_oop\laba4_oop\obj\Debug\laba4_oop.csproj.GenerateResource.Cache
+c:\users\sergiy\documents\visual studio 2013\Projects\laba4_oop\laba4_oop\obj\Debug\laba4_oop.exe
+c:\users\sergiy\documents\visual studio 2013\Projects\laba4_oop\laba4_oop\obj\Debug\laba4_oop.pdb
